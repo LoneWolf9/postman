@@ -367,19 +367,43 @@
       ]
     },
     {
-      "title": "The Brazilian Jiu Jitsu Globe Trotter",
-      "author": "Christian Gaugart",
-      "isbn": "1479104523",
-      "publicationDate": "2012-11-13",
-      "createdAt": "2021-06-27T19:53:44.686Z",
-      "updatedAt": "2021-06-27T19:53:44.686Z",
-      "id": 27,
+      "title": "You Are What You Love: The Spiritual Power of Habit",
+      "author": "James K.A. Smith",
+      "isbn": "158743380X",
+      "releaseDate": "2016-03-05",
+      "createdAt": "2021-11-29T16:04:52.028Z",
+      "updatedAt": "2021-11-29T16:04:52.028Z",
+      "id": 28,
       "links": [
         {
           "rel": "self",
-          "href": "http://localhost:3000/books/27"
+          "href": "http://localhost:3000/books/28"
         }
       ]
+    },
+    {
+      "title": "The Bruised Read",
+      "author": "Richard Sibbes",
+      "isbn": "0851517404",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2021-11-29T16:29:35.913Z",
+      "updatedAt": "2021-11-29T16:29:35.913Z",
+      "id": 29,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/books/29"
+        }
+      ]
+    },
+    {
+      "title": "The Bruised Read",
+      "author": "Richard Sibbes",
+      "isbn": "0851517404",
+      "releaseDate": "1998-03-01",
+      "createdAt": "2021-11-29T16:32:37.671Z",
+      "updatedAt": "2021-11-29T16:32:37.671Z",
+      "id": 30
     }
   ],
   "households": [
