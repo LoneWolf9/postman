@@ -616,6 +616,84 @@
       "createdAt": "2021-07-10T23:52:56.361Z",
       "updatedAt": "2021-07-10T23:52:56.361Z",
       "id": 18
+    },
+    {
+      "name": "Sciscio Household",
+      "createdAt": "2021-11-30T16:11:17.684Z",
+      "updatedAt": "2021-11-30T16:11:17.684Z",
+      "id": 19,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/19"
+        }
+      ]
+    },
+    {
+      "name": "Sciscio Household",
+      "createdAt": "2021-11-30T16:19:48.729Z",
+      "updatedAt": "2021-11-30T16:19:48.729Z",
+      "id": 20,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/20"
+        }
+      ]
+    },
+    {
+      "name": "Sciscio Household",
+      "createdAt": "2021-11-30T16:22:21.509Z",
+      "updatedAt": "2021-11-30T16:22:21.509Z",
+      "id": 21,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/21"
+        }
+      ]
+    },
+    {
+      "name": "Sciscio Household",
+      "createdAt": "2021-11-30T16:23:16.562Z",
+      "updatedAt": "2021-11-30T16:23:16.562Z",
+      "id": 22,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/22"
+        }
+      ]
+    },
+    {
+      "name": "Sciscio Household",
+      "createdAt": "2021-11-30T16:26:10.550Z",
+      "updatedAt": "2021-11-30T16:26:10.550Z",
+      "id": 23,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/23"
+        }
+      ]
+    },
+    {
+      "name": "Sciscio Household",
+      "createdAt": "2021-11-30T16:28:23.838Z",
+      "updatedAt": "2021-11-30T16:28:23.838Z",
+      "id": 24,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/households/24"
+        }
+      ]
+    },
+    {
+      "name": "Sciscio Household",
+      "createdAt": "2021-11-30T16:30:03.773Z",
+      "updatedAt": "2021-11-30T16:30:03.773Z",
+      "id": 25
     }
   ],
   "users": [
@@ -1190,6 +1268,70 @@
           "href": "http://localhost:3000/users/36"
         }
       ]
+    },
+    {
+      "email": "lstdon9@yahoo.com",
+      "firstName": "Donald",
+      "lastName": "Sciscio",
+      "householdId": 1,
+      "createdAt": "2021-11-30T16:13:36.395Z",
+      "updatedAt": "2021-11-30T16:13:36.395Z",
+      "wishlistId": 37,
+      "id": 37,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/37"
+        }
+      ]
+    },
+    {
+      "email": "lstdon9@gmail.com",
+      "firstName": "John",
+      "lastName": "Sciscio",
+      "householdId": 1,
+      "createdAt": "2021-11-30T16:16:28.993Z",
+      "updatedAt": "2021-11-30T16:16:28.993Z",
+      "wishlistId": 38,
+      "id": 38,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/38"
+        }
+      ]
+    },
+    {
+      "email": "lstdon9@yahoo.com",
+      "firstName": "Donald",
+      "lastName": "Sciscio",
+      "householdId": 1,
+      "createdAt": "2021-11-30T16:19:48.833Z",
+      "updatedAt": "2021-11-30T16:19:48.833Z",
+      "wishlistId": 39,
+      "id": 39,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/39"
+        }
+      ]
+    },
+    {
+      "email": "lstdon9@yahoo.com",
+      "firstName": "Donald",
+      "lastName": "Sciscio",
+      "householdId": 1,
+      "createdAt": "2021-11-30T16:19:48.917Z",
+      "updatedAt": "2021-11-30T16:19:48.917Z",
+      "wishlistId": 40,
+      "id": 40,
+      "links": [
+        {
+          "rel": "self",
+          "href": "http://localhost:3000/users/40"
+        }
+      ]
     }
   ],
   "accounts": [
@@ -1418,6 +1560,33 @@
       "name": "Nate's List",
       "books": [],
       "id": 36
+    },
+    {
+      "name": "Donald's List",
+      "books": [
+        1
+      ],
+      "id": 37
+    },
+    {
+      "name": "John's List",
+      "books": [
+        2,
+        3,
+        5,
+        28
+      ],
+      "id": 38
+    },
+    {
+      "name": "Donald's List",
+      "books": [],
+      "id": 39
+    },
+    {
+      "name": "Donald's List",
+      "books": [],
+      "id": 40
     }
   ]
 }
